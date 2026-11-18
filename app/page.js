@@ -275,6 +275,18 @@ export default function Home() {
             >
               Instagram
             </a>
+            <a
+  href="/impressum"
+  className="text-[#929879] hover:underline"
+>
+  Impressum
+</a>
+<a
+  href="/datenschutz"
+  className="text-[#929879] hover:underline"
+>
+  Datenschutz
+</a>
           </div>
 
           <p className="text-xs text-[#929879]">
